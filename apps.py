@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class HomepageConfig(AppConfig):
-    name = 'homepage'
+class TransactionsConfig(AppConfig):
+    name = 'transactions'
